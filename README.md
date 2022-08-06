@@ -1,6 +1,6 @@
 # hanoi-tower
 move discs from one tower to the next
-<img src= "hanoitower.png" width='400'/>
+<img src= "hanoitower.png" width='600'/>
 
 This page will recreate the classic riddle of Vietnamese monks who were asked to move 64 discs, stacked by decreasing size, from one tower to the next, using a third tower as a staging area. The discs can only be moved one at a time, and a disc can only be placed on top of a larger disc or nothing at all, never on top of a smaller disc. 
 
